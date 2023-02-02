@@ -1,4 +1,5 @@
 ﻿using InheritanceAndPolymorphism.AbstractClass;
+using InheritanceAndPolymorphism.Interfaces;
 using InheritanceAndPolymorphism.Polymorphism;
 using InheritanceAndPolymorphism.ProtectedMembers;
 
@@ -16,7 +17,10 @@ internal class Program
         // RunPolymorphism.Running();
 
         //Main Run Abstract
-        RunAbstract.Running();
+      //  RunAbstract.Running();
+
+        //Main INterface
+        RunInterfaces.Running();
        
     }
 }
