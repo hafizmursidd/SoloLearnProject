@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\bin\Debug\net6.0\InheritanceAndPolymorphism.exe
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\bin\Debug\net6.0\InheritanceAndPolymorphism.deps.json
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\bin\Debug\net6.0\InheritanceAndPolymorphism.runtimeconfig.json
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\bin\Debug\net6.0\InheritanceAndPolymorphism.dll
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\bin\Debug\net6.0\InheritanceAndPolymorphism.pdb
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.AssemblyInfo.cs
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.dll
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\refint\InheritanceAndPolymorphism.dll
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.pdb
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\InheritanceAndPolymorphism.genruntimeconfig.cache
+C:\Bootcamp\Batch18\Sololearn\InheritanceAndPolymorphism\obj\Debug\net6.0\ref\InheritanceAndPolymorphism.dll

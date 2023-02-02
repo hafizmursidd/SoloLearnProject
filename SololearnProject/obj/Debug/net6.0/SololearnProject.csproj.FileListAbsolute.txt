@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\bin\Debug\net6.0\SololearnProject.exe
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\bin\Debug\net6.0\SololearnProject.deps.json
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\bin\Debug\net6.0\SololearnProject.runtimeconfig.json
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\bin\Debug\net6.0\SololearnProject.dll
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\bin\Debug\net6.0\SololearnProject.pdb
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.AssemblyInfo.cs
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.dll
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\refint\SololearnProject.dll
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.pdb
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\SololearnProject.genruntimeconfig.cache
+C:\Bootcamp\Batch18\Sololearn\SololearnProject\obj\Debug\net6.0\ref\SololearnProject.dll
