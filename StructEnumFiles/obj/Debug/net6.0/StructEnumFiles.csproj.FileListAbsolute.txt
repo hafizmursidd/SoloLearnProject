@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\bin\Debug\net6.0\StructEnumFiles.exe
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\bin\Debug\net6.0\StructEnumFiles.deps.json
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\bin\Debug\net6.0\StructEnumFiles.runtimeconfig.json
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\bin\Debug\net6.0\StructEnumFiles.dll
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\bin\Debug\net6.0\StructEnumFiles.pdb
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.AssemblyInfo.cs
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.dll
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\refint\StructEnumFiles.dll
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.pdb
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\StructEnumFiles.genruntimeconfig.cache
+C:\Bootcamp\Batch18\Sololearn\StructEnumFiles\obj\Debug\net6.0\ref\StructEnumFiles.dll

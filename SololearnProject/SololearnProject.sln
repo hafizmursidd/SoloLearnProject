@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SololearnProject", "SololearnProject.csproj", "{82A1817C-9DDD-4CE5-8E06-5088CA9A16F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SololearnProject", "SololearnProject.csproj", "{82A1817C-9DDD-4CE5-8E06-5088CA9A16F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphism", "..\InheritanceAndPolymorphism\InheritanceAndPolymorphism.csproj", "{08BA9936-830D-4D5A-B039-CC7C228FACA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceAndPolymorphism", "..\InheritanceAndPolymorphism\InheritanceAndPolymorphism.csproj", "{08BA9936-830D-4D5A-B039-CC7C228FACA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructEnumFiles", "..\StructEnumFiles\StructEnumFiles.csproj", "{21AFA962-9A84-428D-A36E-38F3AB2A9107}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{08BA9936-830D-4D5A-B039-CC7C228FACA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08BA9936-830D-4D5A-B039-CC7C228FACA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08BA9936-830D-4D5A-B039-CC7C228FACA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AFA962-9A84-428D-A36E-38F3AB2A9107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AFA962-9A84-428D-A36E-38F3AB2A9107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AFA962-9A84-428D-A36E-38F3AB2A9107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AFA962-9A84-428D-A36E-38F3AB2A9107}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
